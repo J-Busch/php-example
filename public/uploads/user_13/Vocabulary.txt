@@ -1,0 +1,703 @@
+Vocabulary
+
+Caprice - a sudden and unaccountable change of mood or behavior.
+Exalt - hold (someone or something) in very high regard; think or speak very highly of.
+Idiosyncrasy - a mode or behavior or way of thought peculiar to an individual.
+Pedagog - a teacher, schoolteacher; a person who is pedantic, dogmatic, and formal.
+Temporal - relating to worldly as opposed to spiritual affairs.
+Vicissitude - change of circumstances or fortune, typically one that is unwelcome or unpleasant.
+Genial - friendly and cheerful.
+Austere - severe or strict in manner, attitude, or appearance.
+Earnest - marked by or showing deep sincerity or seriousness.
+Importune - to beset with insistent or repeated requests; entered pressingly.
+Edifice - a building, especially one of imposing appearance or size.
+Dogma - a doctrine or a corpus of doctrines relating to matters such as morality and faith, set forth in an authoritative manner by a church.
+Ecclesiastical - of or relating to a church, especially as an organized institution.
+Grotesque - characterized by ludicrous or incongruous distortion, as of appearance or manner.
+Enterprise - an undertaking, especially one of some scope, complication, and risk.
+Veracity - adherence to the truth; truthfulness.
+Reverence - a feeling of profound awe and respect and often love; veneration.
+Provisional - provided or serving only for the time being.
+Niaiserie - foolishness or stupidity; a foolish or stupid act.
+Superlative - of the highest order, quality, or degree; surpassing or superior to all others.
+Exigency - the state or quality of requiring much effort or immediate action.
+Gambol - to leap about playfully; frolic.
+Wanton - immoral or unchaste; lewd.
+Frivolous - unworthy of serious attention; trivial.
+Impetuous - characterized by sudden and forceful energy or emotion; impulsive and passionate.
+Tartuffery - religious hypocrisy.
+Exordium - a beginning or introductory part, especially of a speech or treatise.
+Treatise - a systemic, usually extensive written discourse on a subject.
+Obstinate - stubbornly adhering to an attitude, opinion, or cause of actions; obdurate.
+Rebuff - a blunt or abrupt repulse or refusal, as to an offer.
+Innocuous - having no adverse effect; harmless.
+Countenance - appearance, especially the expression of the face.
+Idle - not employed or busy.
+Gesticulate - to make gestures especially while speaking, as for emphasis.
+Protract - to draw out or lengthen in time; prolong.
+Indignation - anger aroused by something unjust, mean, or unworthy.
+Satiety - the condition of being full or gratified beyond the point of satisfaction; surfeit.
+Malodorous - having a bad odor; foul.
+Caprice - an impulsive change of mind.
+Incarcerate - imprison or confine.
+Reciprocity - the practice of exchanging things with others for mutual benefit, especially privileges granted by one country or organization to another.
+Transcendental - of or relating to a spiritual or nonphysical realm.
+Ethereal - extremely delicate and light in a way that seems too perfect for this world.
+Edify -instruct or improve (someone) morally or intellectually.
+Intermittent - occurring at irregular intervals; not continuous or steady.
+Parity - the state or condition of being equal, especially regarding status or pay.
+Putative - generally considered or reputed to be.
+Progenitor - a person or thing from which a person, animal, or plant is descended or originates; an ancestor or parent.
+Hegemony - The predominant influence, as of a state, region, or group, over another or others.
+Complicit -  Associated with or participating in a questionable act or a crime; having complicity.
+Obfuscate -  To make so confused or opaque as to be difficult to perceive or understand.
+Heuristic -  Of or relating to a usually speculative formulation serving as a guide in the investigation or solution of a problem.
+Scrutiny - a searching examination or investigation; surveillance; close and continuous watching or guarding.
+Abridged - cut or shortened, especially of a literary work.
+Tenure - the act, fact, or condition of holding something in one’s possession, as real estate or an office; occupation.
+Fiasco - a complete failure.
+Pernicious - causing great harm or damage often in a way that is not easily seen or noticed.
+Despot - a ruler with absolute power.
+Undergrid - to strength or support (something) from below.
+Belligerent - inclined or eager to fight; hostile or aggressive.
+Temporal - of or relating to the material world; worldly.
+Prostrate - to put or throw flat with the face down, as in submission or adoration.
+Roughshod - shod with horseshoes having projecting nails or points to prevent slipping; marked by brutal force.
+Schema - a diagrammatic representation; an outline or model.
+Epistemic - of, relating to, or involving knowledge; cognitive.
+Portmanteau - a large leather suitcase that opens into two hinged compartments.
+Paradigm - one that serves as a pattern or model.
+Hubris - overbearing pride or presumption; arrogance.
+Vexed - irritated, distressed, or annoyed.
+Draconian - exceedingly harsh; very severe.
+Impinged - to collide or strike; to encroach or trespass.
+Abstract - considered apart from concrete existence.
+Extrapolate - to infer or estimate by extending or projecting known information.
+Subjugate - to bring under control; conquer.
+Hitherto - until this time.
+Serried - pressed or crowded together, especially in rows.
+Symbiosis - A close, prolonged association between two or more different organisms of different species that may, but does not necessarily, benefit each other; a relationship of mutual benefit or dependance.
+Immanent - existing or remaining within; inherent; only within the mind.
+Codify - to reduce to a code; to arrange or systematize.
+Endemic - prevalent in or peculiar to a particular locality, region, or people.
+Virtual - existing or resulting in essence or effect though not in actual fact, form, or name.
+Implacable - not cable of being appeased, significantly changed, or mitigated.
+Appease - to bring peace, quiet, or calm to; soothe.
+Mitigate - to moderate (a quality or condition) in force or intensity.
+Instrumental - serving as a means or agency.
+Levy - an imposing or collecting, as of a tax, by authority or force.
+Subsist - to exist; to remain or continue in existence.
+Annuity - the annual payment of an allowance or income.
+Hearth - the floor of a fireplace, usually extend into a room and paved with brick, flagstone or cement; family life; the home.
+Billet - an official order directing that a member of a military force be provided with board and lodging (as in a private home).
+Regicide - the killing of a kind; one who kills a king.
+Felicitous - admirably suited; exhibiting an agreeably appropriate manner or style.
+Cadastre - A public record, survey, or map of the value, extent, and ownership of land as a basis of taxation.
+Coerce - to compel by force, intimidation, or authority especially without regard for individual desire or volition.
+Volition - the act or instance of making a conscious choice or decision.
+Succinct - Characterized by clear, precise expression in few words; concise and terse.
+Impede - to retard or obstruct the progress of.
+Prodigious - impressively great in size, force, or extent; enormous.
+Welter - a confused mass; a jumble.
+Apprehend - to take into custody; arrest.
+Feudal - of, relating to, or characteristic of feudalism; of or relating to lands held in fee or to the holding of such lands.
+Surreptitious - obtained, done, or made by clandestine or stealthy means.
+Strickle - an instrument used to level off grain or other in a measure.
+Corvée - unpaid labor (especially on roads) due to a feudal lord.
+Grope - to reach about uncertainly; feel one’s way.
+Requisition - a formal written request for something needed; a necessity; a requirement.
+Refraction - the turning or bending of any wave, such as a light or sound wave, when it passes from on medium into another of different optical density.
+Prerogative - an exclusive right or privilege held by a person or group, especially a hereditary or official right.
+Underwrite - to assume financial responsibility for; guarantee against failure.
+Cahier - a report, especially on concerning the policy or proceedings of a parliamentary group.
+Paramilitary - of, relating to, or being a group of civilians organized in a military fashion, especially to operate in place of or assist regular army troops.
+Mete - to distribute by or as if by measure; allot.
+Cacophony - jarring, discordant sound; dissonance.
+Perambulate - to walk through; to inspect (an area) on foot.
+Prefect - a high administrative official or chief officer, as.
+Usufruct - the right to use and enjoy the profits and advantage of something belonging to another as long as the property is not damaged or altered in any way.
+Rive - to rend or tear apart.
+Plastic - capable of being shaped or formed.
+Presuppose - to be based on the idea that something is true or will happen.
+Statute - a law enacted by a legislature.
+Parcel - something wrapped up or packaged; a package; a plot of land, usually a division of a larger area.
+Agrarian - relating to or concerning the land and its ownership, cultivation, and tenure.
+Coalition - an alliance, especially a temporary one, of people, factions, parties, or nations.
+Sanction - authoritative permission or approval that makes a course of action valid.
+Tithe - a tenth part of one’s annual income contributed voluntarily or due as tax, especially for the support of the clergy or church.
+Hapless - luckless; unfortunate.
+Prudent - wise in handling practical matters; exercising good judgement or common sense.
+Procure - to get by special effort; obtain or acquire.
+Germane - being both pertinent and fitting.
+Myopic - nearsighted; unable to see distant objects unaided.
+Fiat - an official order given by someone who has power; an order that must be followed.
+Permeate - To spread or flow throughout; pervade.
+Profuse - plentiful; copious.
+Congenial - having the same tastes, habits, or temperament.
+Edifice - a building, especially one of imposing appearance or size.
+Vista - A distant view or prospect, especially one seen throw an opening, as between rows or buildings or trees.
+Rivet - A metal bold or pin having a head on one end, inserted through aligned house in the pieces to be joined and then hammered on the plain end so as to form a second head.
+Audacious - fearlessly, often recklessly daring; bold.
+Arduous - demanding great effort or labor; difficult.
+Primogeniture - the state of being the first born or eldest child of the same parents.
+Brusque - abrupt and curt in manner or speech; discourtesy blunt.
+Artifact - an object produced or shaped by human craft, especially a tool, weapon, or ornament.
+Banal - drearily commonplace and often predictable; trite.
+Reify - to regard or treat (an abstraction) as if it had concrete or material existence.
+Epoch - a particular period of history, especially one considered remarkable or noteworthy.
+Ubiquity - existence or apparent existence everywhere at the same time; omnipresence.
+Interim - an interval of time between one event, process, or period and another.
+Ostensibly - seemingly, apparently, on the surface.
+Vernacular - the language or dialect spoken by the ordinary people in a particular country or region.
+Precedence - the rules of conduct that, in the absence of other guidance, determine what should happen first.
+Solvent - capable of meeting financial obligations.
+Statute - a law enacted by a legislature.
+Provision - the act of supplying or fitting out.
+Directive - an order or instruction, especially one issued by a central authority.
+Ambivalence - the coexistence of opposing attitudes or feelings, such as love and hate, toward a person, object, or idea.
+Encroach - to take another’s possessions or rights gradually or stealthily: encroach on a neighbor’s land.
+Placate - to allay the anger of, especially by making concessions; appease.
+Bombastic - pompous or overly wordy.
+Austere - severe or stern in disposition or appearance; somber and grave.
+Endow - to provide with property, income, or a source of income.
+Polemic - a controversial argument, especially one refuting or attacking a specific opinion or doctrine.
+Megalomania - a psychopathological condition characterized by delusional fantasies of wealth, power, or omnipotence.
+Serene - unaffected by disturbance; calm and unruffled.
+Praxis - practical application or exercise of a branch of learning.
+Asceticism - severe self-discipline and avoidance of all forms of indulgence, typically for religious reasons.
+Didactic - intended to instruct.
+Modicum - a small, moderate, or token amount.
+Quotidian - everyday; commonplace.
+Purview - the extent or range of function, power, or competence; scope.
+Inexorable - not capable of being persuaded by entreaty; relentless.
+Vogue - the prevailing fashion, practice, or style.
+Auspice - protection or support; patronage.
+Auspicious - attended by favorable circumstances; propitious.
+Cadre - a nucleus of trained personnel around which a larger organization can be built and trained.
+Intelligentsia - the intellectual elite of a society.
+Acquiesce - to consent or comply passively or without protest.
+Pedagogy - the art or profession of teaching.
+Prescience - knowledge of actions or events before they occur; foresight.
+Amenable - responsive to advice, authority, or suggestion; willing.
+Putsch - a sudden attempt by a group to overthrow a government.
+Astute - having or showing shrewdness and discernment, especially with respect to one’s own concerns.
+Abrogate - to abolish, do away with, or annul, especially by authority.
+Thrall - one, such as a slave or serf, who is held in bondage.
+Vestige - a visible trace, evidence, or sign of something that once existed but exists or appears no more.
+Impecunious - lacking money; penniless.
+Crass - so crude and unrefined as to be lacking in discrimination and sensibility.
+Anachronism - the representation of someone as existing or something as happening in other than chronological, proper, or historical order.
+Extirpate - to pull up by the roots.
+Myopic - nearsighted; unable to see distant objects unaided.
+Subvert - to destroy completely; ruin.
+Mētis - knowledge that can be acquired only by long practice at similar but rarely identical tasks.
+Commensurate - of the same size, extent, or duration as another.
+Visage - The face or facial expression of a person, countenance.
+Purport - to have or present the often false appearance of being or intending; profess.
+Temporal - Of, relating to, or limited by time.
+Sedentary - characterized by or requiring much sitting.
+Manifold - many and varied; of many kinds.
+Estuary - the part of the wide lower course of a river where its current is met by the tides.
+Arable - fit for cultivation, as by plowing.
+Beleaguer - besieged; surrounded by enemy troops.
+Desultory - having no set plan; haphazard or random.
+Sequester - to cause to withdraw into seclusion.
+Lapse - to fall from a previous level or standard, as of accomplishment, quality, or conduct.
+Facade - the face of a building, especially the principal face.
+Ineluctable - not to be avoided or escaped; inevitable.
+Procure - to get by special effort; obtain or acquire.
+Quiescent - being quiet, still, or at rest; inactive.
+Derisive - mocking; jeering.
+Facsimile - an exact copy or reproduction, as of a document.
+Adroit - dexterous; deft.
+Glean - to gather grain left behind by reapers.
+Fungible - interchangeable; returnable or negotiable in kind or by substitution, as a quantity of grain for an equal amount of the same kind of grain.
+Gadfly - any of various flies (horsefly, botfly, warble fly) that bite or annoy livestock.
+Pastoral - of or relating to shepherds or herders.
+Onerous - troublesome or oppressive; burdensome.
+Interregnum - the interval of time between the end of a sovereign’s reign and the accession of a successor.
+Apparatus - an appliance or device for a particular purpose.
+Desultory - having no set plan; haphazard or random.
+Implicit - implied or understood though not directly expressed.
+Hapless - luckless; unfortunate.
+Pliable - easily bend or shaped.
+Havoc - widespread destruction; devastation.
+Emphatic - expressed or performed with emphasis.
+Uncanny - peculiarly unsettling, as if of supernatural origin or nature; eerie.
+Penal - of, relating to, or prescribing punishment, as for breaking the law.
+Cipher - the mathematical symbol (0) denoting absence of quantity; zero.
+Tacit - not spoken.
+Ineffable - incapable of being expressed; indescribable or unutterable.
+Vernacular - the standard native language of a country or locality.
+Ambit - an external boundary; a circuit.
+Notion - a belief or opinion.
+Veritable - being truly so called; real or genuine.
+Conspicuous - easy to notice; obvious.
+Undulate - to cause to move in a smooth wavelike motion.
+Intractable - difficult to manage or govern; stubborn.
+Aegis - protection.
+Pathology - the scientific study of the nature of disease and its causes, processes, development, and consequences.
+Cyclopean - relating to or suggestive of a cyclops.
+Vagary - an extravagant or erratic notion or action.
+Progenitor - a direct ancestor.
+Sedition - conduct or language inciting rebellion against the authority of a state.
+Maxim - a succinct formulation of a fundamental principle, general truth, or rule of conduct.
+Capricious - characterized by or subject to whim; impulsive and unpredictable.
+Stochastic - of, relating to, or characterized by conjecture; conjectural.
+Caprice - an impulsive change of mind.
+Impetus - an impelling force; an impulse.
+Conjecture - inference or judgment based on inconclusive or incomplete evidence; guesswork.
+Gestalt - a physical, biological, psychological, or symbolic configuration or pattern of elements so unified as a whole that its properties cannot be derived from a simple summation of its parts.
+Efficacy - power or capacity to produce a desired effect; effectiveness.
+Alacrity - cheerful willingness; eagerness.
+Idiosyncrasy - a structural or behavioral characteristic peculiar to an individual or group.
+Apposite - strikingly appropriate and relevant.
+Edifice - a building, especially one of imposing appearance or size.
+Cuirass - a piece of armor for protecting the breast and back.
+Diminutive - Extremely small in size; tiny.
+Glean - to gather grain left behind by reapers.
+Fleck - a tiny mark or spot.
+Cretonne - a heavy unglazed cotton, linen or rayon fabric, colorfully printed and used for draperies and slip covers.
+Divan - a long backless sofa, especially one set with pillows against a wall.
+Trefoils - any of various plants of the genera Trifolium, Lotus, and related genera of the pea family, having the compound trifoliate leaves.
+Paltry - lacking in importance or worth.
+Penumbra - a partial shadow, as in an eclipse, between regions of complete shadow and complete illumination.
+Inordinate - exceeding reasonable limits; immoderate.
+Veritable - being truly so called; real or genuine.
+Tactile - perceptible to the sense of touch; tangible.
+Dearth - a scarce supply; a lack.
+Tepid - moderately warm.
+Copious - yielding or containing plenty; affording ample supply.
+Coeval - originating or existing during the same period; lasting through the same era.
+Accosted - supported on both sides by other charges; also, side by side.
+Accost - to approach and speak to body or aggressively, as with a demand or request.
+Excrescence - an outgrowth or enlargement, especially an abnormal one, such as a wart.
+Bellicose - warlike or hostile in manner or temperament.
+Epistle - a letter, especially a formal one.
+Archivolt - a decorative molding carried around an arched wall opening.
+Parley - a discussion or conference, especially one between enemies over terms of truce or other matters.
+Taper - a small or very slender candle.
+Repose - the act of resting of the state of being at rest.
+Personage - a character in a literary work.
+Hypertrophy - a non tumorous enlargement of an organ or a tissue as a result of an increase in the size rather than the number of constituent cells.
+Schism - a separation or division into factions.
+Synesthete - a person who experiences synthesis, as by having a secondary sensation of sound as color or of color as sound.
+Praedormitary - before sleep.
+Fatidic - relating to or characterized by prophecy; prophetic.
+Assuage - to make (something burdensome or painful) less intense or severe.
+Vigil - a watch kept during normal sleeping hours.
+Beatitude - supreme blessedness or happiness.
+Nominal - of, resembling, relating to, or consisting of a name or names.
+Bleary - blurred or dimmed by or as if by tears.
+Hoary - grey or white with or as if with age.
+Vex - to annoy, as with petty importunities; bother.
+Nomenclature - a system of names used in an art or science.
+Ursine - of or characteristic of bears or a bear.
+Tincture - a coloring or dyeing substance; a pigment.
+Argent - the metal silver, represented by the color white.
+Parson - an anglican cleric with full legal control of a parish under ecclesiastical law.
+Sumptuous - of a size or splendor suggesting great expense; lavish.
+Austere - severe or stern in disposition or appearance; somber and grave.
+Plaintiff - the party that institutes a suit in a court.
+Epitaph - an inscription on a tombstone in memory of the one buried there.
+Vignette - a decorative design placed at the beginning or end of a book or chapter of a book or along the border of a page.
+Decemberist - one taking part in the unsuccessful uprising against the Russian emperor Nicholas I in December 1825.
+Bastion - projecting part of a fortification.
+Sallow - of a sickly yellowish hue or complexion.
+Brusque - abrupt and curt in manner or speech; discourteously blunt.
+Curt - rudely brief or abrupt, as in speech or manner.
+Conspicuous - easy to notice; obvious.
+Proffer - to offer for acceptance; tender.
+Torrid - parched with the heat of the sun; intensely hot.
+Labial - of or relating to the lips or labia.
+Fastidious - possessing or displaying careful, meticulous attention to detail.
+Garble - to mix up or distort to such an extent as to make misleading or incomprehensible.
+Supine - lying on the back or having the face upward.
+Striae - a thin, narrow groove or channel.
+Vesperal - a book containing the words and hymns to be used at vespers.
+Vesper - A bell that summons worshipers to vespers.
+Vespers - a worship service held in the late afternoon or evening in many Western Christian churches; the sixth of the seven canonical hours.
+Doleful - filled with or expressing grief; mournful.
+Limpid - characterized by transparent clearness; pellucid.
+Facet - on of the flat polished surfaces cut on a gemstone or occurring naturally on a crystal.
+Portent - and indication of something important or calamitous about to occur; an omen.
+Aseptic - free of pathogenic microorganisms.
+Grotto - a small cave or cavern.
+Allegory - the representation of abstract ideas or principles by characters, figures, or events in narrative, dramatic, or pictorial form.
+Somnambulist - a person who walks about in his or her sleep; a sleepwalker.
+Engender - to bring into existence; give rise to.
+Insipid - lacking flavor or zest; not tasty.
+Adroit - dexterous; deft.
+Torpid - deprived of the power of motion or feeling; benumbed.
+Balk - to stop short and refuse to go on.
+Vestibule - a small entrance hall or passage between the outer door and the interior of a house or building.
+Dialectic - the art or practice of arriving at the truth by the exchange of logical arguments.
+Ecchymosis - the passage of blood from the ruptured blood vessels into subcutaneous tissue, marked by a purple discoloration of the skin.
+Susurrous - full of whispering or rustling sounds.
+Limpid - characterized by transparent clearness; pellucid.
+Xanthin - of a yellowish color.
+Fulvous - tawny colored.
+Harlequin - a conventional buffoon of the com media dell’arte, traditionally presented in a mask and parti-colored tights.
+Enuresis - the uncontrolled or involuntary discharge of urine.
+Effluvia - a usually invisible emanation or exhalation, as of vapor or gas.
+Lacquer - any of various clear or colored synthetic coatings made by dissolving nitrocellulose or other cellulose derivatives together with plasticizers and pigments in a mixture of volatile solvents and used to impart high gloss to surfaces.
+Refulgent - shining radiantly; resplendent.
+Lambent - flickering lightly over or on a surface.
+Scintillate - to throw off sparks; flash.
+Dulcet - pleasing to the ear; melodious.
+Tumult - the din and commotion of a great crowd.
+Seethe - to churn and foam as if boiling.
+Lap - to fold; wrap.
+Morose - sullenly melancholy; gloomy.
+Verbose - using or containing a great and usually and excessive number of words; wordy.
+Regal - of, resembling, or fit for a monarch, especially in being magnificent or dignified.
+Vestige - a trace of something that is disappearing or no longer exists.
+Austere - severe or strict in manner, attitude, or appearance.
+Aberration - a deviation from the proper or expected course.
+Ostentate - to make an ambitious display of; to show or exhibit boastingly.
+Verisimilitude - the quality of appearing to be true or real.
+Geminate - to double.
+Equilibrist - a person who performs feats of balance, such as tightrope walking.
+Anastomosis - the connection of separate parts of a branching system to form a network, as of leaf veins, blood vessels, or a river and its branches.
+Nictitate - to wink.
+Quiddity - the real nature of a thing; the essence.
+Languorous - lacking energy, spirit, liveliness or vitality; languid, lackadaisical.
+Palpitate - to move with a slight tremulous motion; temple, shake, or quiver.
+Plaintive - expressing sorrow; mournful or melancholy.
+Cuirassier - a horse soldier in European armies who's equipment included the cuirass.
+Cuirass - a piece of armor for protecting the breast and back.
+Lorgnette - a pair of eyeglasses or opera glasses with a short handle.
+Interpolate - to insert or introduce between other elements or parts.
+Disseminate - to scatter widely, as in sowing seed.
+Ostensibly - seemingly, apparently, on the surface.
+Geriatric - relating to old people, especially with regard to their health care.
+Progeny - a descendant or the descendants of a person, animal, or plant; offspring.
+Axiom - a statement or proposition that is regarded as being established, accepted, or self-evidently true.
+Agape - in a state of wonder or amazement, as with the mouth wide open.
+Enervate - to weaken or destroy the strength or vitality of.
+Vindicate - to clear of accusation, blame, suspicion, or doubt with supporting argument or proof.
+Indolent - disinclined to exert oneself; habitually lazy.
+Deprave - to debase, especially morally; corrupt.
+Maxim - a succinct formulation of a fundamental principle, general truth, or rule of conduct.
+Abjure - to recant solemnly; renounce or repudiate.
+Dissension - difference of opinion; disagreement.
+Pedant - one who pays undue attention to book learning and formal rules.
+Deleterious - having a harmful effect; injurious.
+Pernicious - tending to cause death or serious injury; deadly.
+Arrogate - to take or claim for oneself without right; appropriate.
+Gait - a particular way or manner of moving on foot.
+Apprehend - to take into custody; arrest.
+Assuage - to make (something burdensome or painful) less intense or severe.
+Allay - to reduce the intensity of; relieve.
+Effervescent - giving off bubbles; fizzy.
+Tutelage - the capacity or activity of a guardian; guardianship.
+Promulgate - to make known (a decree, for example) by public declaration; announce officially.
+Obdurate - hardened in wrongdoing or wickedness; stubbornly impenitent.
+Vicissitudes - a change or variation.
+Impetuous - characterized by sudden and forceful energy or emotion; impulsive and passionate.
+Approbation - an expression of warm approval; praise.
+Impute - to relate to a particular cause or sources; attribute the fault or responsibility to.
+Timorous - full of apprehensiveness; timid.
+Assail - to attack with or as if with violent blows; assault.
+Polemic - a controversial argument, especially one refuting or attacking a specific opinion or doctrine.
+Lofty - of imposing height.
+Annul - to make or declare void or invalid, as a marriage or a law; nullify.
+Transgression - a violation of a law, command, or duty; the exceeding of due bounds or limits.
+Multifarious - having great variety; diverse.
+Fraternal - of or relating to brothers.
+Pervade - to be present throughout; permeate.
+Litany - a liturgical prayer consisting of a series of petitions recited by a leader alternating with fixed responses by the congregation.
+Propitious - presently favorable circumstances; auspicious.
+Scruple - a feeling of doubt or hesitation with regard to the morality or propriety of a course of action.
+Countenance - a persons face or facial expression.
+Ample - enough or more than enough; plentiful.
+Elocution - the skill of clear and expressive speech, especially of distinct pronunciation and articulation.
+Erudition - the quality of having or showing great knowledge or learning; scholarship.
+Tenacious - tending to keep a firm hold of something; clinging or adhering closely.
+Despondency - a state of low spirits caused by loss of hope or courage.
+Congeal - solidify or coagulate, especially by cooling.
+Founder (of a ship) - fill with water and sink.
+Trifle - a thing of little value or importance.
+Contingent - subject to change.
+Denote - be a sign of; indicate.
+Consummate - make (a marriage or relationship) complete by having sexual intercourse.
+Arabesque - an ornamental design consisting of intertwined flowing lines, originally found in Arabic or Moorish decoration.
+Platitude - a remark or statement, especially one with a moral content, that has been used to often to be interesting or thoughtful.
+Languid - (of a person, manner, or gesture) displaying or having a disinclination for physical exertion or effort; slow and relaxed.
+Insipid - lacking flavor.
+Ensconce - establish or settle (someone) in a comfortable, safe, or secret place.
+Truculent - eager or quick to argue or fight; aggressively defiant.
+Doldrum - a state of inactivity or stagnation.
+Carping - difficult to please; critical.
+Odious - extremely unpleasant; repulsive.
+Perdition - a state of eternal punishment and damnation into which a sinful and unpenitent person passes after death.
+Eloquent - fluent or persuasive in speaking or writing.
+Imbibe - drink (alcohol)
+Jurisprudence - the theory or philosophy of law.
+Huckster - a person who sells small items, either door-to-door or from a stall or small store.
+Fastidious - very attentive to and concerned about accuracy and detail.
+Auger - a tool with a helical bit for boring holes in wood.
+Carouse - drink plentiful amounts of alcohol and enjoy oneself with others in a noisy, lively way.
+Revel - enjoy oneself in a lively and noisy way, especially with drinking and dancing.
+Sieve - a utensil consisting of a wire or plastic mesh held in a frame, used for straining solids from liquids, for separating coarser from finer particles, or for reducing soft solids to a pulp.
+Impertinent - not showing proper respect; rude.
+Recumbent - (especially of a person or human figure) lying down.
+Escutcheon - a shield or emblem bearing a coat of arms.
+Gratis - without charge; free.
+Languish - (of a person or other living thing) lose or lack vitality; grow weak or feeble.
+Ardent - enthusiastic or passionate.
+Swain - a country youth OR a young lover or suitor.
+Tumult - a loud, confused noise, especially one caused by a large mass of people.
+Seethe - (of a liquid) bubble up as a result of being boiled.
+Tawdry - showy but cheap and of poor quality.
+Imbue - inspire or permeate with a feeling or quality.
+Antipathy - a deep-seated feeling of dislike; aversion.
+Promenade - a paved public walk, typically one along a waterfront at a resort.
+Lecherous - having or showing excessive or offensive sexual desire.
+Lout - an uncouth or aggressive man or boy.
+Heather - a purple-flowered Eurasian heath that grows abundantly on moorland and heathland many ornamental varieties have been developed. also called ling.
+Chagrin - distress or embarrassment at having failed or been humiliated.
+Expiate - atone for (guilt or sin).
+Caper - skip or dance about in a lively or playful way.
+Voracious - wanting or devouring great quantities of food.
+Sojourn - a temporary stay.
+Didactic - intended to teach, particularly in having moral instruction as an ulterior motive.
+Tendentious - expressing or intending to promote a particular cause or point of view, especially a controversial one.
+Felicitous - well chosen or suited to the circumstances.
+Elucidate - make (something) clear; explain.
+Impetus - the force or energy with which a body moves.
+Reverence - deep respect for someone or something.
+Solipsism - the view or theory that the self is all that can be known to exist.
+Redolent - strongly reminiscent or suggestive of (something).
+Midge - a group of insects that include many kinds of small flies.
+Subserve - help to further or promote.
+Exigency - an urgent need or demand.
+Covet - yearn to possess or have (something).
+Indigent - poor; needy.
+Kindred - one's family and relations.
+Candid - truthful and straightforward; frank.
+Sunder - split apart.
+Importunate - persistent, especially to the point of annoyance or intrusion.
+Virile - (of a man) having strength, energy and a strong sex drive.
+Poltroon - an utter coward.
+Poignant - evoking a keen sense of sadness or regret.
+Consorting - habitually associate with (someone), typically with the disapproval of others.
+Palliative - (of a treatment or medicine) relieving pain or alleviating a problem without dealing with the underlying cause.
+Throes - intense or violent pain and struggle, especially accompanying brith, death, or great change.
+Somatic - or or relating to the body, especially as distinct from the mind.
+Voluptuous - of, relating to, or characterized by luxury or sensual pleasure.
+Sordid - involving ignoble actions and motives; arousing moral distaste and contempt.
+Taciturn - (of a person) reserved or uncommunicative in speech; saying little.
+Domicile - the country that a person treats as their permanent home, or lives in and has a substantial connection with.
+Equanimity - mental calmness, composure, and evenness of temper, especially in a difficult situation.
+Nuptial - of or relating to marriage or weddings.
+Squalid - (of a place) extremely dirty and unpleasant, especially as a result of poverty or neglect.
+Volubility - the quality of talking fluently, readily, or incessantly; talkativeness.
+Stolid - (of a person) calm, dependable, and showing little emotion or animation.
+Corpulent - (of a person) fat.
+Crenate - (especially of a leaf or shell) having a round-toothed or scalloped edge.
+Crenulate - (especially of a lead, shell, or shoreline) having a finely scalloped or notched outline or edge.
+Meretricious - of or relating to a prostitute.
+Abject - (of a situation or condition) extremely bad, unpleasant, and degrading.
+Heliotropism - the directional growth of a plant in response to sunlight.
+Palsy - paralysis, especially that which is accompanied by involuntary tremors.
+Madrigal - a part-song for several voices, especially one of the Renaissance period, typically arranged in elaborate counterpoint and without instrumental accompaniment.
+Trite - (of a remark, opinion, or idea) overused and consequently of little importance; lacking originality or freshness.
+Amorous - showing, feeling, or relating to sexual desire.
+Incipient - in an initial stage; beginning to happen or develop.
+Limpid - (of a liquid) free of anything that darkens; completely clear.
+Frock - a woman's or girl's dress.
+Mirth - amusement, especially as expressed in laughter.
+Dorsal - of, on, or relating to the upper side or back of an animal, plant, or organ.
+Impinge - have an effect or impact, especially a negative one.
+Gaiety - the state or quality of being lighthearted or cheerful.
+Levity - humor or frivolity, especially the treatment of a serious matter with humor or in a manner lacking due respect.
+Capricious - given to sudden and unaccountable changes of mood or behavior.
+Anachronism - a thing belonging or appropriate to a period other than that in which it exists, especially a thing that is conspicuously old-fashioned.
+Apotheosis - the highest point in the development of something; culmination or climax.
+Placid - (of a person or animal) not easily upset or excited.
+Idyll - an extremely happy, peaceful, or picturesque episode or scene, typically an idealized or unsustainable one.
+Apt - appropriate or suitable in the circumstances.
+Sedition - conduct or speech inciting people to rebel against the authority of a state or monarch.
+Guile - sly or cunning intelligence.
+Surreptitious - kept secret, especially because it would not be approved of.
+Equipoise - balance of forces or interests.
+Fervent - having or displaying a passionate intensity.
+Vicar - (in the Roman Catholic Church) a representative or deputy of a bishop.
+Pallid - (of a person's face) pale, typically because of poor health.
+Supplant - supersede and replace.
+Subterfuge - deceit used in order to achieve one's goal.
+Extenuate - make (guilt or an offense) seem less serious or more forgivable.
+Ardor - enthusiasm or passion.
+Infirmity - physical or mental weakness.
+Exalt - hold (someone or something) in very high regard; think or speak very highly of.
+Girdle - something that encircles or confines.
+Constitute - be (a part) of a whole.
+Constitution - the composition of something.
+Indignant - feeling or showing anger or annoyance at what is perceived as unfair treatment.
+Debase - reduce (something) in quality or value; degrade.
+Leaven - a substance, typically yeast, that is added to dough to make it ferment and rise.
+Laconic - (of a person, speech, or style of writing) using very few words.
+Illustrious - well known, respected, and admired for past achievements.
+Haughty - arrogantly superior and disdainful.
+Reproach - address (someone) in such a way as to express disapproval or disappointment.
+Immure - enclose or confine (someone) against their will.
+Perusal - the action of reading or examining something.
+Rapture - a feeling of intense pleasure or joy.
+Reprobate - an unprincipled person (often used humorously or affectionately).
+Derision - contemptuous ridicule or mockery.
+Contempt - the feeling that a person or a thing is beneath consideration, worthless, or deserving scorn.
+Avail - use or take advantage or (an opportunity or available resource).
+Pauper - a very poor person.
+Propitious - giving or indicating a good chance of success; favorable.
+Hermetic - (of a seal or closure) complete and airtight.
+Porous - (of a rock or other material) having minute spaces of holes through which liquid or air may pass.
+Heuristic - enabling a person to discover or learn something for themselves.
+Superfluous - unnecessary, especially through being more than enough.
+Dendrite - a short branched extension of a nerve cell, along which impulses received from other cells at synapses are transmitted to the cell body.
+Coquettish - behaving in such a way as to suggest a playful sexual attraction; flirtatious.
+Aberrant - departing from an accepted standard.
+Innocuous - not harmful or offensive.
+Occlusion - the blockage or closing of a blood vessel or hollow organ.
+Coronary - relating to or denoting the arteries that surround and supply the heart.
+Dapple - mark with spots or rounded patches.
+Boisterous - (of a person, event, or behavior) noisy, energetic, and cheerful; rowdy.
+Obstinate - stubbornly refusing to change one's opinion or chosen course of action, despite attempts to persuade one to do so.
+Uncouth - (of a person or their appearance or behavior) lacking good manners, refinement, or grace.
+Lacquer - a liquid made of shellac dissolved in alcohol, or of synthetic substances, that dries to form a hard protective coating for wood, metal, etc.
+Torpor - a state of physical or mental inactivity; lethargy.
+Palpate - examine (a part of the body) by touch, especially for medical purposes.
+Conspicuous - standing out so as to be clearly visible.
+Tryst - a private, romantic rendezvous between lovers.
+Epistle - a letter.
+Supine - (of a person) lying face upward.
+Stucco - fine plaster used for coating wall surfaces or molding into architectural decorations.
+Deign - do something that one considers to be beneath one's dignity.
+Gingham - lightweight plain-woven cotton cloth, typically checked in white and a bold color.
+Coagulate - (of a fluid, especially blood) change to a solid or semisolid state.
+Backfische - an adolescent immature girl.
+Alacrity - brisk and cheerful readiness.
+Tumescent - swollen or becoming swollen especially as a response to sexual arousal.
+Carbuncle - a severe abscess or multiple boil in the skin, typically infected with staphylococcus bacteria.
+Abscess - a swollen area within body tissue, containing an accumulation of pus.
+Cretonne - a heavy cotton fabric, typically with a floral patter printed on one or both sides, used for upholstery.
+Chenille - a tufted velvety cord or yarn, used for trimming furniture and making carpets and clothing.
+Pallid - (of a person's face) pale, typically because of poor health.
+Maudlin - self-pityingly or tearfully sentimental, often through drunkenness.
+Purlieu - the area near or surrounding a place.
+Odious - extremely unpleasant; repulsive.
+Iniquity - immoral or grossly unfair behavior.
+Emeritus - (of the former holder of an office, especially a college professor) having retired but allowed to retain their title as an honor.
+Sapphic - of or relating to lesbians or lesbianism.
+Neuralgia - intense, typically intermittent pain along the course of a nerve, especially in the head or face.
+Abet - encourage or assist (someone) to do something wrong, in particular, to commit a crime or other offense.
+Drab - lacking brightness or interest; drearily dull.
+Supercilious - behaving or looking as though one thinks one is superior to others.
+Trochee - a foot consisting of one long or stressed syllable followed by one short or unstressed syllable.
+Lilt - a characteristic rising and falling of the voice when speaking; a pleasant gentle accent.
+Gamut - the complete range or scope of something.
+Amorous - showing, feeling, or relating to sexual desire.
+Languor - the state of feeling, often pleasant, of tiredness or inertia.
+Demure - (of a woman or her behavior) reserved, modest, and shy.
+Leporine - of or resembling a hare or hares.
+Amour - a secret or illicit love affair or lover.
+Entreaty - an earnest or humble request.
+Servile - having or showing an excessive willingness to serve or please others.
+Crepitate - make a crackling sound.
+Lacuna - an unfilled space or interval; a gap.
+Ratiocinate - form judgements by a process of logic; reason.
+Sublimate - (especially in psychoanalytic theory) divert or modify (an instinctual impulse) into a culturally higher or socially more acceptable activity.
+Isomorphic - corresponding or similar in form and relations.
+Noumenal - an object as it is in itself, independent of the mind.
+Phenomenal - perceptible by the senses or through immediate experience.
+Postulate - suggest or assume the existence, fact, or truth of (something) as a basis for reasoning, discussion, or belief.
+Teleology - the explanation of phenomena by the purpose they serve rather than by postulated causes.
+Ontology - the branch of metaphysics dealing with the nature of being.
+Skepticism - the theory that certain knowledge is impossible.
+Dogma - a principle or set of principles laid down by an authority as incontrovertibly true.
+Epistemology - the theory or knowledge, especially with regard to its methods, validity, and scope.
+Inchoate - just begun and so not fully formed or developed; rudimentary.
+Enigma - a person or thing that is mysterious, puzzling, or difficult to understand.
+a fortiori - used to express a conclusion for which there is stronger evidence than for a previously accepted one.
+a priori - relating to or denoting reasoning or knowledge that proceeds from theoretical deduction rather than from observation or experience.
+Seminal - (of a work, event, moment, or figure) strongly influencing later developments.
+Discursive - digressing from subject to subject.
+Digress - leave the main subject temporarily in speech or writing.
+Providence - the protective care of God or of nature as a spiritual power.
+Apotheosis - the highest point in the development of something; culmination or climax.
+Polemic - a strong verbal or written attack on someone or something.
+Faculty - an inherent mental or physical power.
+Edifice - a complex system of beliefs.
+Fatalism - the belief that all events are predetermined and therefore inevitable.
+Ad hoc - formed, arranged, or done for a particular purpose only.
+Exegesis - critical explanation or interpretation of a text, especially of scripture.
+Demonstrative - (of a person) tending to show feelings, especially of affection, openly.
+Palpable - (of a feeling or atmosphere) so intense as to seem almost tangible.
+Incommensurable - not able to be judged by the same standard as something; having no common standard of measurement.
+Ideology - a system of ideas and ideals.
+Tautology - the saying of the same thing twice in different words, generally considered to be a fault of style.
+Pariah - an outcast.
+Germ - a portion of an organism capable of developing into a new one or part of one.
+Pleonasm - the use of more words than are necessary to convey meaning, either as a fault of style or for emphasis.
+Surfeit - an excessive amount of something.
+Wanton - (of a cruel or violent action) deliberate and unprovoked.
+Inundate - overwhelm (someone) with things or people to be dealt with.
+Piquancy - a pleasantly sharp and appetizing flavor.
+Ambivalence - a state of having mixed feelings or contradictory ideas about something or someone.
+Non sequitur - a conclusion or statement that does not logically follow from the previous argument or statement.
+Palimpsest - a manuscript or piece of writing material on which the original writing has been effaced to make room for later writing but of which traces remain.
+Holistic - characterized by comprehension of the parts of something as intimately interconnected and explicable only by reference to the whole.
+Delineate - describe or portray (something) precisely.
+Vacillate - alternate or waver between different opinions or actions; be indecisive.
+Felicitous - well chosen or suited to the circumstances.
+Prosaic - having the style or diction of prose; lacking poetic beauty.
+Didactic - intended to teach, particularly in having moral instruction as an ulterior motive.
+Verisimilitude - the appearance of being true or real.
+Modal - relating to mode or form as opposed to substance.
+Discursive - digressing from subject to subject.
+Colonnade - a row of columns supporting a roof, an entablature, or arcade.
+Elucidate - make (something) clear; explain.
+Lugubrious - looking or sounding sad and dismal.
+Dilatory - slow to act.
+Petulant - (of a person or their manner) childishly sulky or bad-tempered.
+Presentiment - an intuitive feeling about the future, especially one of foreboding.
+Aphorism - a pithy observation that contains a general truth, such as, “if it ain’t broke, don’t fix it”.
+Congenial - (of a person) pleasant because of a personality, qualities, or interests that are similar to ones own.
+Trepidation - a feeling of fear or agitation about something that may happen.
+Cordial - warm and friendly.
+Impetus - the force or energy with which a body moves.
+Ostentatious - characterized by vulgar or pretentious display; designed to impress or attract notice.
+Parsimonious - unwilling to spend money or use resources; stingy or frugal.
+Sundry - of various kinds; several.
+Epistle - a letter.
+Jurisprudence - the theory of philosophy of law.
+Errant - erring or straying from the proper course or standards.
+Frenetic - fast and energetic in a rather wild and uncontrolled way.
+Tangential - relating to or along a tangent; diverging from a previous course or line.
+Contrived - deliberately created rather than raising naturally or spontaneously.
+Ecclesiastical - relating to the Christian Church or its clergy.
+Tutelary - serving as a protector, guardian, or patron.
+Sojourn - a temporary stay.
+Lampoon - publicly criticize (someone or something) by using ridicule, irony, or sarcasm.
+Chagrin - distress or embarrassment at having failed or been humiliated.
+Strife - angry or bitter disagreement over fundamental issues; conflict.
+Enmity - the state or feeling of being actively opposed or hostile to someone or something.
+Acrimonious - (typically of speech or a debate) angry and bitter.
+Discordant - disagreeing or incongruous.
+Mellifluous - (of a voice or words) sweet or musical; pleasant to hear.
+Limpid - (of a liquid) free of anything that darkens; completely clear.
+Extemporize - compose, perform, or produce something such as music or a speech without preparation; improvise.
+Contiguous - sharing a common border; touching.
+Philistine - a person who is hostile or indifferent to culture and the arts, or who has no understanding of them.
+Pettifogger - an inferior legal practitioner, especially one who deals with petty cases or employs dubious practices.
+Dynamo - a machine for converting mechanical energy into electrical energy; a generator.
+Primordial - existing at or from the beginning of time; primeval.
+Antecedent - a thing or event that existed before or logically precedes another.
+Abstruse - difficult to understand; obscure.
+Proselyte - a person who has converted from one opinion, religion, or party to another, especially recently.
+Deracinate - tear (something) up by the roots.
+Castigate - reprimand (someone) severely.
+Sequester - isolate or hide away (someone or something).
+Interpolate - insert (something of a different nature) into something else.
+Disparate - essentially different in kind; not allowing comparison.
+
